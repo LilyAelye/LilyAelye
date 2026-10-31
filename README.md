@@ -11,7 +11,10 @@ I'm still a minor, learning the Adobe suite but primarily works on tools & websi
 
 And i hate subscriptions. But conditionally. 
 
+*My motivation to keep going*
 Life is short but also has ways to glow a new light for us, even when we miss the past or the current.
+And to never give up, persevere until i can do it.
+*No matter the limits & bounds in life. U can always push the limits above and beyond until you reach the end.*
 
 ### My daily tools 
 Linux (CachyOS) with Libresprite (Thumbnails, Icons etc..), KDEnLive (Video Editing software), OBS (Recording), VSCode (Coding)
